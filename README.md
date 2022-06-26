@@ -1,5 +1,5 @@
-# pma-voice
-A voice system designed around the use of FiveM/RedM internal mumble server.
+# pma-voice (EDIT)
+pma-voice editado con amor por RaulGG.
 
 ## Support
 
