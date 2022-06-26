@@ -1,0 +1,92 @@
+@font-face {
+    font-family: 'San-francisco';src: url('SF-Compact-Text-Medium.ttf');
+}
+
+body {
+    font-family: 'San-francisco';
+}
+
+.micicon {
+    position: fixed;
+    top: 52.2vw;
+    left: 94.7vw;
+    color: white;
+    padding: .6vw .7vw;
+    border-radius: .3vw;
+    transition: .4s;
+    background-color: black;
+    -webkit-border-radius: .3vw;
+    -moz-border-radius: .3vw;
+    -ms-border-radius: .3vw;
+    -o-border-radius: .3vw;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+}
+
+.ricon {
+    position: fixed;
+    top: 52.2vw;
+    left: 94.7vw;
+    color: white;
+    padding: .6vw .7vw;
+    border-radius: .3vw;
+    transition: .4s;
+    background-color: black;
+    -webkit-border-radius: .3vw;
+    -moz-border-radius: .3vw;
+    -ms-border-radius: .3vw;
+    -o-border-radius: .3vw;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+}
+
+.vmode {
+    position: fixed;
+    bottom: 1.84vw;
+    right: 5.8vw;
+    color: white;
+    padding: .04vw .6vw;
+    line-height: 2vw;
+    text-align: center;
+    border: #fff solid .13vw;
+    border-radius: .4vw;
+    font-size: .9vw;
+    transform: scale(.93);
+    background-color: black;
+    -webkit-border-radius: .4vw;
+    -moz-border-radius: .4vw;
+    -ms-border-radius: .4vw;
+    -o-border-radius: .4vw;
+    max-width: 8vw;
+    -webkit-transform: scale(.93);
+    -moz-transform: scale(.93);
+    -ms-transform: scale(.93);
+    -o-transform: scale(.93);
+}
+
+.rmode {
+    position: fixed;
+    bottom: 1.95vw;
+    right: 5.8vw;
+    color: white;
+    padding: .04vw .6vw;
+    line-height: 2vw;
+    text-align: center;
+    border-radius: .4vw;
+    font-size: .9vw;
+    background-color: black;
+    transform: scale(1.03);
+    -webkit-border-radius: .4vw;
+    -moz-border-radius: .4vw;
+    -ms-border-radius: .4vw;
+    -o-border-radius: .4vw;
+    -webkit-transform: scale(1.03);
+    -moz-transform: scale(1.03);
+    -ms-transform: scale(1.03);
+    -o-transform: scale(1.03);
+    max-width: 8vw;
+}
